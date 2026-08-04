@@ -4,7 +4,6 @@
 
 LEVEL 1 — BASIC STAR PATTERNS
 ☐ 01. Solid Square                    -> [    // Loops(2) | Outer(i<n) | Inner(j<n) | * ]
------------------------------------------------------------------------------------------
 ☐ 02. Hollow Square                   ->      // Outer(i<n) → if(First/Last)-> n*(loop) : else (*+(n-2)S+*) 
                                               //|Outer(i<n) | Inner(j<n) | Border? * : Space 
 
@@ -13,8 +12,10 @@ LEVEL 1 — BASIC STAR PATTERNS
 ☐ 05. Right Half Pyramid              -> [ // Outer(0 -> i<n) → Space(0 -> < n-i-1) → Star(0-><= i) ]
 ☐ 06. Inverted Right Half Pyramid     -> [ // Outer(0->i<n) → Space(0-><n-i-1) → Star(0-><=i) ]
 
+-----------------------------------------------------------------------------------------
+
 LEVEL 2 — NUMBER PATTERNS
-☐ 07. Increasing Number Triangle      -> [ ]
+☐ 07. Increasing Number Triangle      -> [ // Outer(0->i<n) → Number(0-><=i) → Print(j+1) ]
 ☐ 08. Repeated Number Triangle        -> [ ]
 ☐ 09. Reverse Number Triangle         -> [ ]
 ☐ 10. Binary Triangle                 -> [ ]

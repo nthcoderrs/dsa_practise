@@ -3,71 +3,71 @@
 ========================
 
 LEVEL 1 — BASIC STAR PATTERNS
-☐ 01. Solid Square
-☐ 02. Hollow Square
-☐ 03. Left Half Pyramid
-☐ 04. Inverted Left Half Pyramid
-☐ 05. Right Half Pyramid
-☐ 06. Inverted Right Half Pyramid
+☐ 01. Solid Square                    -> [ // Loops(2) | Outer(i<n) | Inner(j<n) | * ]
+☐ 02. Hollow Square                   -> [ ]
+☐ 03. Left Half Pyramid               -> [ ]
+☐ 04. Inverted Left Half Pyramid      -> [ ]
+☐ 05. Right Half Pyramid              -> [ ]
+☐ 06. Inverted Right Half Pyramid     -> [ ]
 
 LEVEL 2 — NUMBER PATTERNS
-☐ 07. Increasing Number Triangle
-☐ 08. Repeated Number Triangle
-☐ 09. Reverse Number Triangle
-☐ 10. Binary Triangle
-☐ 11. Floyd's Triangle
-☐ 12. Number Crown
+☐ 07. Increasing Number Triangle      -> [ ]
+☐ 08. Repeated Number Triangle        -> [ ]
+☐ 09. Reverse Number Triangle         -> [ ]
+☐ 10. Binary Triangle                 -> [ ]
+☐ 11. Floyd's Triangle                -> [ ]
+☐ 12. Number Crown                    -> [ ]
 
 LEVEL 3 — ALPHABET PATTERNS
-☐ 13. Alphabet Triangle
-☐ 14. Reverse Alphabet Triangle
-☐ 15. Repeated Alphabet Triangle
-☐ 16. Alphabet Palindrome Pyramid
-☐ 17. Reverse Alphabet Staircase
+☐ 13. Alphabet Triangle               -> [ ]
+☐ 14. Reverse Alphabet Triangle       -> [ ]
+☐ 15. Repeated Alphabet Triangle      -> [ ]
+☐ 16. Alphabet Palindrome Pyramid     -> [ ]
+☐ 17. Reverse Alphabet Staircase      -> [ ]
 
 LEVEL 4 — PYRAMID PATTERNS
-☐ 18. Full Pyramid
-☐ 19. Inverted Full Pyramid
-☐ 20. Diamond
-☐ 21. Half Diamond
+☐ 18. Full Pyramid                    -> [ ]
+☐ 19. Inverted Full Pyramid           -> [ ]
+☐ 20. Diamond                         -> [ ]
+☐ 21. Half Diamond                    -> [ ]
 
 LEVEL 5 — HOLLOW PATTERNS
-☐ 22. Hollow Pyramid
-☐ 23. Hollow Inverted Pyramid
-☐ 24. Hollow Diamond
-☐ 25. Hollow Rhombus
-☐ 26. Hollow Rectangle
+☐ 22. Hollow Pyramid                  -> [ ]
+☐ 23. Hollow Inverted Pyramid         -> [ ]
+☐ 24. Hollow Diamond                  -> [ ]
+☐ 25. Hollow Rhombus                  -> [ ]
+☐ 26. Hollow Rectangle                -> [ ]
 
 LEVEL 6 — BUTTERFLY PATTERNS
-☐ 27. Hollow Butterfly
-☐ 28. Solid Butterfly
+☐ 27. Hollow Butterfly                -> [ ]
+☐ 28. Solid Butterfly                 -> [ ]
 
 LEVEL 7 — MATHEMATICAL PATTERNS
-☐ 29. Pascal's Triangle
-☐ 30. Palindrome Number Pyramid
-☐ 31. Reverse Palindrome Pyramid
+☐ 29. Pascal's Triangle               -> [ ]
+☐ 30. Palindrome Number Pyramid       -> [ ]
+☐ 31. Reverse Palindrome Pyramid      -> [ ]
 
 LEVEL 8 — MATRIX PATTERNS
-☐ 32. Concentric Number Square
-☐ 33. Concentric Number Square (Generalized)
-☐ 34. Spiral Matrix
-☐ 35. Snake Matrix
+☐ 32. Concentric Number Square        -> [ ]
+☐ 33. Concentric Number Square (Generalized) -> [ ]
+☐ 34. Spiral Matrix                   -> [ ]
+☐ 35. Snake Matrix                    -> [ ]
 
 LEVEL 9 — SYMMETRY PATTERNS
-☐ 36. X Pattern
-☐ 37. Hourglass Pattern
-☐ 38. Cross Pattern
-☐ 39. Checkerboard Pattern
+☐ 36. X Pattern                       -> [ ]
+☐ 37. Hourglass Pattern               -> [ ]
+☐ 38. Cross Pattern                   -> [ ]
+☐ 39. Checkerboard Pattern            -> [ ]
 
 LEVEL 10 — ADVANCED PATTERNS
-☐ 40. Spiral Star Pattern
-☐ 41. Double Hollow Diamond
-☐ 42. Double Number Pyramid
-☐ 43. Hollow Number Diamond
-☐ 44. Sandglass Pattern
-☐ 45. Zig-Zag Pattern
-☐ 46. Heart Pattern
-☐ 47. Sierpinski Triangle
-☐ 48. Recursive Fractal Pattern
-☐ 49. Spiral Alphabet Pattern
-☐ 50. Mixed Challenge Pattern
+☐ 40. Spiral Star Pattern             -> [ ]
+☐ 41. Double Hollow Diamond           -> [ ]
+☐ 42. Double Number Pyramid           -> [ ]
+☐ 43. Hollow Number Diamond           -> [ ]
+☐ 44. Sandglass Pattern               -> [ ]
+☐ 45. Zig-Zag Pattern                 -> [ ]
+☐ 46. Heart Pattern                   -> [ ]
+☐ 47. Sierpinski Triangle             -> [ ]
+☐ 48. Recursive Fractal Pattern       -> [ ]
+☐ 49. Spiral Alphabet Pattern         -> [ ]
+☐ 50. Mixed Challenge Pattern         -> [ ]

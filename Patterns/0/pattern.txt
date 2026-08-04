@@ -3,9 +3,9 @@
 ========================
 
 LEVEL 1 — BASIC STAR PATTERNS
-☐ 01. Solid Square                    -> [    // Loops(2) | Outer(i<n) | Inner(j<n) | * ]
-☐ 02. Hollow Square                   ->      // Outer(i<n) → if(First/Last)-> n*(loop) : else (*+(n-2)S+*) 
-                                              //|Outer(i<n) | Inner(j<n) | Border? * : Space 
+☐ 01. Solid Square                    -> [ // Loops(2) | Outer(i<n) | Inner(j<n) | * ]
+☐ 02. Hollow Square                   -> [ // Outer(i<n) → if(First/Last)-> n*(loop) : else (*+(n-2)S+*) ]
+->                                          [ // Outer(i<n) | Inner(j<n) | Border? * : Space ]
 
 ☐ 03. Left Half Pyramid               -> [ // Outer(i<n) → Inner(j<=i) → *]
 ☐ 04. Inverted Left Half Pyramid      -> [ // Outer(0->i<n) → Star(0-><n-i) ]
@@ -20,7 +20,7 @@ LEVEL 2 — NUMBER PATTERNS
 ☐ 09. Reverse Number Triangle         -> [ // Outer(0->i<n) → Number(0-><n-i) → Print(j+1) ]
 ☐ 10. Binary Triangle                 -> [ // Outer(0->i<n) → Number(0-><=i) → Print((i+j)%2)]
 ☐ 11. Floyd's Triangle                -> [ // Outer(0->i<n) → Inner(0-><=i) → Print(count++)]
-☐ 12. Number Crown                    -> [ ]
+☐ 12. Number Crown                    -> [ // Outer(i<n) → Left(j=0-><=i, j+1) → Space(2*(n-i-1)) → Right(j=i->>=0, j+1) ]
 
 LEVEL 3 — ALPHABET PATTERNS
 ☐ 13. Alphabet Triangle               -> [ ]

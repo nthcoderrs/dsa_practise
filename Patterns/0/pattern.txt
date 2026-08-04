@@ -19,7 +19,7 @@ LEVEL 2 — NUMBER PATTERNS
 ☐ 08. Repeated Number Triangle        -> [ // Outer(0->i<n) → Number(0-><=i) → Print(i+1) ]
 ☐ 09. Reverse Number Triangle         -> [ // Outer(0->i<n) → Number(0-><n-i) → Print(j+1) ]
 ☐ 10. Binary Triangle                 -> [ // Outer(0->i<n) → Number(0-><=i) → Print((i+j)%2)]
-☐ 11. Floyd's Triangle                -> [ ]
+☐ 11. Floyd's Triangle                -> [ // Outer(0->i<n) → Inner(0-><=i) → Print(count++)]
 ☐ 12. Number Crown                    -> [ ]
 
 LEVEL 3 — ALPHABET PATTERNS

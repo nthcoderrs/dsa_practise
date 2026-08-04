@@ -8,7 +8,7 @@ LEVEL 1 — BASIC STAR PATTERNS
 ☐ 02. Hollow Square                   ->      // Outer(i<n) → if(First/Last)-> n*(loop) : else (*+(n-2)S+*) 
                                               //|Outer(i<n) | Inner(j<n) | Border? * : Space 
 
-☐ 03. Left Half Pyramid               -> [ ]
+☐ 03. Left Half Pyramid               -> [ // Outer(i<n) → Inner(j<=i) → *]
 ☐ 04. Inverted Left Half Pyramid      -> [ ]
 ☐ 05. Right Half Pyramid              -> [ ]
 ☐ 06. Inverted Right Half Pyramid     -> [ ]

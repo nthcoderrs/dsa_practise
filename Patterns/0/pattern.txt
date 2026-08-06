@@ -32,7 +32,7 @@ LEVEL 3 — ALPHABET PATTERNS
 LEVEL 4 — PYRAMID PATTERNS
 ☐ 18. Full Pyramid                    -> [ // Outer(0->i<n) → Space(0-><n-i-1) → Star(0-><2*i+1) ]
 ☐ 19. Inverted Full Pyramid           -> [ // Outer(0->i<n) → Space(0-><i) → Star(0-><2*(n-i)-1) ]
-☐ 20. Diamond                         -> [ ]
+☐ 20. Diamond                         -> [ // Outer(0->i<2*n-1) → Row(i<n?i:2*n-i-2) → Space(0-><n-row-1) → Star(0-><2*row+1) ]
 ☐ 21. Half Diamond                    -> [ ]
 
 LEVEL 5 — HOLLOW PATTERNS

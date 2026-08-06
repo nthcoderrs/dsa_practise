@@ -30,7 +30,7 @@ LEVEL 3 — ALPHABET PATTERNS
 ☐ 17. Reverse Alphabet Staircase      -> [ // Outer(0->i<n) → Space(0-><n-i-1) → Alphabet(0-><=i,'A'+(n-i-1)+j) ]
 
 LEVEL 4 — PYRAMID PATTERNS
-☐ 18. Full Pyramid                    -> [ ]
+☐ 18. Full Pyramid                    -> [ // Outer(0->i<n) → Space(0-><n-i-1) → Star(0-><2*i+1) ]
 ☐ 19. Inverted Full Pyramid           -> [ ]
 ☐ 20. Diamond                         -> [ ]
 ☐ 21. Half Diamond                    -> [ ]

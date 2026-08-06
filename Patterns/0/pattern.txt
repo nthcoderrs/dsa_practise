@@ -36,7 +36,7 @@ LEVEL 4 — PYRAMID PATTERNS
 ☐ 21. Half Diamond                    -> [ // Outer(0->i<2*n-1) → Row(i<n?i:2*n-i-2) → Star(0-><=row) ]
 
 LEVEL 5 — HOLLOW PATTERNS
-☐ 22. Hollow Pyramid                  -> [ ]
+☐ 22. Hollow Pyramid                  -> [ // Outer(0->i<n) → Space(0-><n-i-1) → Star(0-><2*i+1) → Print('*' if i==n-1 || j==0 || j==2*i else ' ') ]
 ☐ 23. Hollow Inverted Pyramid         -> [ ]
 ☐ 24. Hollow Diamond                  -> [ ]
 ☐ 25. Hollow Rhombus                  -> [ ]

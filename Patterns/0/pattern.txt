@@ -47,7 +47,7 @@ LEVEL 6 — BUTTERFLY PATTERNS
 ☐ 28. Solid Butterfly                 -> [ // Outer(0->i<2*n-1) → Row(i<n?i:2*n-i-2) → Left(0-><=row) → Space(2*(n-row-1)) → Right(0-><=row) ]
 
 LEVEL 7 — MATHEMATICAL PATTERNS
-☐ 29. Pascal's Triangle               -> [ ]
+☐ 29. Pascal's Triangle               -> [ // Outer(0->i<n) → Space(0-><n-i-1) → Value=1 → Number(0-><=i) → Print(Value) → Value=Value*(i-j)/(j+1) ]
 ☐ 30. Palindrome Number Pyramid       -> [ ]
 ☐ 31. Reverse Palindrome Pyramid      -> [ ]
 

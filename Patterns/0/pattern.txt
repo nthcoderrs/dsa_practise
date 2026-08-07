@@ -44,7 +44,7 @@ LEVEL 5 — HOLLOW PATTERNS
 
 LEVEL 6 — BUTTERFLY PATTERNS
 ☐ 27. Hollow Butterfly                -> [ // Outer(0->i<2*n-1) → Row(i<n?i:2*n-i-2) → Left(0-><=row, Border) → Space(2*(n-row-1)) → Right(0-><=row, Border)]
-☐ 28. Solid Butterfly                 -> [ ]
+☐ 28. Solid Butterfly                 -> [ // Outer(0->i<2*n-1) → Row(i<n?i:2*n-i-2) → Left(0-><=row) → Space(2*(n-row-1)) → Right(0-><=row) ]
 
 LEVEL 7 — MATHEMATICAL PATTERNS
 ☐ 29. Pascal's Triangle               -> [ ]

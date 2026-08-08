@@ -59,7 +59,7 @@ LEVEL 8 — MATRIX PATTERNS
 
 LEVEL 9 — SYMMETRY PATTERNS
 ☐ 36. X Pattern                       -> [ // Outer(i<n) → Inner(j<n) → If(i==j || i+j==n-1) → Print(*) → Else Print(space) ]
-☐ 37. Hourglass Pattern               -> [ ]
+☐ 37. Hourglass Pattern               -> [ // Upper(i=0->n-1) → Space(0->i) → Star(i->n-1) → Lower(i=n-2->0) → Space(0->i) → Star(i->n-1) ]
 ☐ 38. Cross Pattern                   -> [ ]
 ☐ 39. Checkerboard Pattern            -> [ ]
 

@@ -58,7 +58,7 @@ LEVEL 8 — MATRIX PATTERNS
 ☐ 35. Snake Matrix                    -> [ // Outer(i<n) → If even(i%2==0) → Number(L→R) → Else → Number(R→L) → Print(count++) ]
 
 LEVEL 9 — SYMMETRY PATTERNS
-☐ 36. X Pattern                       -> [ ]
+☐ 36. X Pattern                       -> [ // Outer(i<n) → Inner(j<n) → If(i==j || i+j==n-1) → Print(*) → Else Print(space) ]
 ☐ 37. Hourglass Pattern               -> [ ]
 ☐ 38. Cross Pattern                   -> [ ]
 ☐ 39. Checkerboard Pattern            -> [ ]

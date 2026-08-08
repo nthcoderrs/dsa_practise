@@ -54,7 +54,7 @@ LEVEL 7 — MATHEMATICAL PATTERNS
 LEVEL 8 — MATRIX PATTERNS
 ☐ 32. Concentric Number Square        -> [ // Size(2*n-1) → Outer(i<size) → Inner(j<size) → Top(i) Left(j) Right(size-j-1) Bottom(size-i-1) → Print(n-min(all)) ]
 ☐ 33. Concentric Number Square (Generalized) -> [ // Size(2*n-1) → Outer(i<size) → Inner(j<size) → Top(i) Left(j) Right(size-j-1) Bottom(size-i-1) → Print(n-min(all)) ]
-☐ 34. Spiral Matrix                   -> [ ]
+☐ 34. Spiral Matrix                   -> [ // Boundaries(top,left,right,bottom) → While(top<=bottom && left<=right) → Top(L→R) → top++ → Right(T→B) → right-- → Bottom(R→L) → bottom-- → Left(B→T) → left++ ]
 ☐ 35. Snake Matrix                    -> [ ]
 
 LEVEL 9 — SYMMETRY PATTERNS

@@ -67,7 +67,7 @@ LEVEL 10 — ADVANCED PATTERNS
 ☐ 40. Spiral Star Pattern             -> [ // Outer(i<n) → Inner(j<n) → Check spiral boundary positions → Print(*) → Else print(space) ]
 ☐ 41. Double Hollow Diamond           -> [ // Size(2*n-1) → Row=min(i,size-i-1) → LeftSpace → LeftHollowDiamond → MiddleGap → RightHollowDiamond ]
 ☐ 42. Double Number Pyramid           -> [ // Outer(i=1->n) → Space(n-i) → LeftNumber(1->i) → Gap(2*(n-i)+1) → RightNumber(i->1) ]
-☐ 43. Hollow Number Diamond           -> [ ]
+☐ 43. Hollow Number Diamond           -> [ // Upper(i=1->n) → Space(n-i) → Number(i) → InnerSpace(2*i-3) → Number(i) → Lower(i=n-1->1) → Repeat ]
 ☐ 44. Sandglass Pattern               -> [ ]
 ☐ 45. Zig-Zag Pattern                 -> [ ]
 ☐ 46. Heart Pattern                   -> [ ]

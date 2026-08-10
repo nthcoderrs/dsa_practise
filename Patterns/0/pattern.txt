@@ -74,4 +74,4 @@ LEVEL 10 — ADVANCED PATTERNS
 ☐ 47. Sierpinski Triangle             -> [ // Outer(i<n) → Space(n-i-1) → Inner(j<=i) → If((i&j)==j) → Print(*) → Else space ]
 ☐ 48. Recursive Fractal Pattern       -> [ // Base(n==0) → RecursiveCall(n-1) → Outer(i<n) → Inner(j<n) → Print(*) ]
 ☐ 49. Spiral Alphabet Pattern         -> [ // Boundaries(top,left,right,bottom) → While(top<=bottom && left<=right) → Top(L→R) → Right(T→B) → Bottom(R→L) → Left(B→T) → ch++ → Shrink ]
-☐ 50. Mixed Challenge Pattern         -> [ ]
+☐ 50. Mixed Challenge Pattern         -> [ // Outer(i<n) → Inner(j<n) → FirstRow(j+1) → LastRow(n-j) → Boundary/Diagonal(i+1) → Else(*) ]

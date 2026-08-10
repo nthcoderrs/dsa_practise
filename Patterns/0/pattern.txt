@@ -71,7 +71,7 @@ LEVEL 10 — ADVANCED PATTERNS
 ☐ 44. Sandglass Pattern               -> [ // Upper(i=0->n-1) → Space(i) → Star(2*(n-i)-1) → Lower(i=n-2->0) → Repeat ]
 ☐ 45. Zig-Zag Pattern                 -> [ // Outer(i<3) → Inner(j<n) → Top(j%4==1) → Middle(j%2==0) → Bottom(j%4==3) → Print(*) ]
 ☐ 46. Heart Pattern                   -> [ // Upper(i=n/2->n, step=2) → LeftSpace → LeftStar(i) → MiddleSpace(n-i) → RightStar(i) → Lower(i=n->1) → Space(n-i) → Star(2*i-1) ]
-☐ 47. Sierpinski Triangle             -> [ ]
+☐ 47. Sierpinski Triangle             -> [ // Outer(i<n) → Space(n-i-1) → Inner(j<=i) → If((i&j)==j) → Print(*) → Else space ]
 ☐ 48. Recursive Fractal Pattern       -> [ ]
 ☐ 49. Spiral Alphabet Pattern         -> [ ]
 ☐ 50. Mixed Challenge Pattern         -> [ ]

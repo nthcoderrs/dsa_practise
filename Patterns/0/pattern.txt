@@ -64,8 +64,8 @@ LEVEL 9 — SYMMETRY PATTERNS
 ☐ 39. Checkerboard Pattern            -> [ // Outer(i<n) → Inner(j<n) → If((i+j)%2==0) → Print(*) → Else Print(space) ]
 
 LEVEL 10 — ADVANCED PATTERNS
-☐ 40. Spiral Star Pattern             -> [ ]
-☐ 41. Double Hollow Diamond           -> [ ]
+☐ 40. Spiral Star Pattern             -> [ // Outer(i<n) → Inner(j<n) → Check spiral boundary positions → Print(*) → Else print(space) ]
+☐ 41. Double Hollow Diamond           -> [ // Size(2*n-1) → Row=min(i,size-i-1) → LeftSpace → LeftHollowDiamond → MiddleGap → RightHollowDiamond ]
 ☐ 42. Double Number Pyramid           -> [ ]
 ☐ 43. Hollow Number Diamond           -> [ ]
 ☐ 44. Sandglass Pattern               -> [ ]
